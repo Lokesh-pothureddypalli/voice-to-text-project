@@ -1,0 +1,39 @@
+.main {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 90px;
+}
+.box-container {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    border: 1px none rgb(155, 155, 169);
+}
+.box {
+    width: 60px;
+    height: 60px;
+    border: 1px solid green;
+    background-color: red;
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+.center {
+    text-align: center;
+    color: rgba(11, 13, 118, 0.718);
+  }
+#myDIV {
+    width:100%;
+    height:300px;
+    background-color:#FFFFFF;
+    border-top:4px inset;
+  }
