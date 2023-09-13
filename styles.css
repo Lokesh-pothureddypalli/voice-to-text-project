@@ -1,3 +1,10 @@
+
+#myDIV {
+    width:100%;
+    height:300px;
+    background-color:#FFFFFF;
+    border-top:4px inset;
+  }
 .main {
     width: 100%;
     display: flex;
@@ -30,10 +37,4 @@
 .center {
     text-align: center;
     color: rgba(11, 13, 118, 0.718);
-  }
-#myDIV {
-    width:100%;
-    height:300px;
-    background-color:#FFFFFF;
-    border-top:4px inset;
-  }
+  } 
