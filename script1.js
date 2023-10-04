@@ -2,7 +2,7 @@
  function redirectToPage()
  {
     // Replace 'newpage.html' with the URL of the page you want to redirect to
-    window.location.href = '!DOCTYPE htmlvoice22.html';
+    window.location.href = 'html2.html';
 }
 let a=document.getElementById("kk");
 var message = document.querySelector("#message");
